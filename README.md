@@ -14,7 +14,7 @@ There is a method that is implemented in the Set ADT called intersection(), use 
 
 ---
 
-#Problem 02 Intro
+# Problem 02 Intro
 Suppose you are given an array of ArraySet<Integer> instances. Write a non-member static method called checkDisjoint() which returns true if the intersection of the array is empty. In other words, a collection of N sets are disjointed if and only if they do not have any elements in common.
 
 If the array is empty, the method returns true.
@@ -33,7 +33,7 @@ There is a method that is implemented in the Set ADT called intersection(), use 
 
 ---
 
-#Problem 03 Intro
+# Problem 03 Intro
 Consider a member method for the LinkedBag implementation of the Bag ADT called `replace()`. This method receives two generic type values, the first is a value that must be searched for within the `Bag (oldValue)`, and the second is the value that will replace the `first (newValue)i`.
 
 The goal of this method is to replace the value of the first occurrence of oldValue in the Bag. If there are no occurrences of oldValue inside the bag or the bag is empty, then nothing should be modified inside the bag.
@@ -42,7 +42,7 @@ For example, suppose we have a bag `B = {'A', 'B', 'C', 'D', 'B'}`. If we call `
 
 ---
 
-#Problem 04 Intro 
+# Problem 04 Intro 
 Consider a member method for the LinkedBag implementation of the Bag ADT called getFrequencyBag()
 
 The method should return a bag of type integer containing the number of copies of each element inside the target bag. If the target bag is empty, the method should return an empty bag
