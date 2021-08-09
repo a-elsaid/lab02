@@ -29,3 +29,4 @@ There is a method that is implemented in the Set ADT called intersection(), use 
 
 
 ![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+![equation](http://www.sciweavers.org/tex2img.php?eq=S_3+%3D+S_1+%5Ccap+S_2+%3D+%7Bx+%7C+x++%5Cin++S_1++%5Cwedge+x+%5Cin+S_2+%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
