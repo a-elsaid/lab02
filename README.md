@@ -28,4 +28,4 @@ Remember that an intersection is just all of the elements that the Sets have in 
 There is a method that is implemented in the Set ADT called intersection(), use it!
 
 
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
