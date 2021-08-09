@@ -28,4 +28,4 @@ Remember that an intersection is just all of the elements that the Sets have in 
 There is a method that is implemented in the Set ADT called intersection(), use it!
 
 
-![formula](https://render.githubusercontent.com/render/math?math=S_3 = S_1 \cap S_2 = {x | x  \in  S_1  \wedge x \in S_2 })
+![equation](https://render.githubusercontent.com/render/math?math=S_3 = S_1 \cap S_2 = {x | x  \in  S_1  \wedge x \in S_2 })
